@@ -1,0 +1,33 @@
+
+
+.i875
+{
+    display: grid;
+    justify-content: center;
+    background-color: aliceblue;
+    border:2px solid purple;
+    border-radius: 20px;
+    
+}
+
+
+
+.i8121
+{
+    display: grid;
+    justify-content: center;
+    background-color: aliceblue;
+    border:2px solid purple;
+    border-radius: 20px;
+    
+    
+}
+
+
+
+img:hover
+{
+    wdht:100%;
+    height:1100px;
+    
+}

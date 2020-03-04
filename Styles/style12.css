@@ -1,0 +1,243 @@
+
+
+
+
+
+body
+
+{
+    width:1000px;
+    height:4500px;
+    padding: 3px;
+    border: 3px solid purple;
+   
+    
+    
+    
+    
+    
+
+#tda
+{
+    background-color: black;
+    font-size: 60px;
+    color: darkorange;
+    width:80%;
+    border:2px solid darkorange;
+    border-radius: 20px;
+}
+
+#ia
+{
+    font-size: 80px;
+    border:3px solid purple;
+    color:gold;
+    background-color: lavender;
+}
+
+
+
+#nav
+{
+    width:100%;
+    height:130px;
+    background-color: black;
+    color: darkorange;
+    position: fixed;
+}
+
+
+.nav-item
+{
+    width: 100%;
+    height: 120px;
+    *background-color: aqua;
+    border:1px solid purple;
+    border-radius: 20px;
+    font-size: 35px;
+    text-align: center;
+    color: darkorange;
+    background-color: black;
+}
+
+
+#ia1
+{
+    width:100%;
+    height:110px;
+    font-size: 35px;
+    border-radius: 20px;
+    border:2px solid purple;
+    color	:darkorange;
+}
+
+
+#ia2
+{
+    widht:100%
+    height:100px;
+    font-size: 35px;
+}
+
+
+
+#li1 
+{
+    color:darkorange;
+}
+
+
+
+#li2 
+{
+    color:darkorange;
+}
+
+
+
+
+
+#li3 
+{
+    color:darkorange;
+}
+
+
+
+#li4 
+{
+    color:darkorange;
+}
+
+
+
+
+
+#li5 
+{
+    color:darkorange;
+}
+
+
+
+
+
+
+#li6 
+{
+    color:darkorange;
+}
+
+
+#bt
+{
+    background-color: aliceblue;
+    border:3px solid purple;
+    *color:darkviolet;
+}
+
+
+
+
+#i11f
+{
+    border: 3px solid purple;
+    text-align: center;
+    width:100%;
+    height: 700px;
+    background-color: blueviolet;
+    
+}
+
+
+#i11f1
+{
+    text-align: center;
+    background-color: black;
+    border: 1px solix purple;
+    width:100%;
+    height: 610px;
+}
+
+
+#i11f2
+{
+    color:darkorange;
+    font-size: 35px;
+}
+
+
+#i11f3
+{
+    color:darkorange;
+    font-size: 45px;
+}
+
+
+#i11f4
+{
+    color:darkviolet;
+    font-size: 30px;
+    list-style: none;
+}
+
+
+
+#i11a
+{
+    font-size: 25px;
+    color: gold;
+}
+
+
+.i11c
+{
+    font-size: 30px;
+    color: darkviolet;
+}
+
+
+
+.div1
+{
+   background-color: black; 
+}
+
+
+
+.titular
+{
+    font-size: 33px;
+    color: gold;
+}
+
+
+
+
+
+.div12
+{
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap:10px;
+    justify-items: center; 
+    
+    background-color: none;
+    width: 100%;
+    height: 4000px;
+    
+}
+
+
+#i11a
+{
+    color: darkorchid;
+    }
+
+
+
+#i12a
+{
+    text-align: center;
+}
